@@ -1,0 +1,14 @@
+HOW TO RUN
+download this in your laptop
+download python 
+how to download:give in command prompt
+!pip install pandas
+!pip install numpy
+!pip install faker
+!pip install scikit-learn
+!pip install matplotlib
+!pip install seaborn
+!pip install missingno
+!pip install scipy 
+SAVE PRIDICTION FILE IN .PY
+THEN RUN in  COMMAND PROMPT this "python -m streamlit run yourpathfile"
